@@ -1,0 +1,12 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@font-face {
+    font-family: 'outfit';
+    src: url('../src/assets/fonts/Outfit.ttf');
+}
+html 
+{
+    font-family: outfit;
+}
